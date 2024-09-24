@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DuanYuFi
 - 🏫 Studying in VUL337 lab in Tsinghua University, PhD candidate, grade 1.
 - 👀 I’m interested in Crypto and Coding.
-- 📖 I’m currently learning MPC and Compiler.
+- 📖 I’m currently learning Applied Cryptography and Blockchain.
 - 💞️ I’m a Formula1 fan. 🏎
 - 📫 Email: DuanYuFi@foxmail.com
 
