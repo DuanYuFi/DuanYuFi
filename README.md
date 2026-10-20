@@ -7,6 +7,7 @@
 
 ### publications
 
+- **Yufei Duan**, Yun Li, Zhicong Huang, Cheng Hong, Tao Wei, & Chao Zhang (2026). ECHO: Efficient Covertly-Secure Three-party Computation with Applications to Private Machine Learning. IEEE Transactions on Information Forensics and Security (TIFS). (NDSS 2026 Summer Early Reject -> USENIX Security 2026 Cycle 1 Reject -> IEEE TIFS R1/R2 Accept)
 - Yun Li, Daniel Escudero, **Yufei Duan**, Zhicong Huang, Cheng Hong, Chao Zhang, & Yifan Song (2024). Sublinear Distributed Product Checks on Replicated Secret-Shared Data over Z2k without Ring Extensions. In ACM Conference on Computer and Communications Security (CCS) 2024.
 - Yun Li, **Yufei Duan**, Zhicong Huang, Cheng Hong, Chao Zhang, & Yifan Song (2023). Efficient 3PC for Binary Circuits with Application to Maliciously-Secure DNN Inference. In 32nd USENIX Security Symposium (USENIX Security 23) (pp. 5377–5394). USENIX Association. https://www.usenix.org/conference/usenixsecurity23/presentation/li-yun
 - Yu, HB., Zheng, QX., Liu, YJ. et al. An improved method for predicting truncated multiple recursive generators with unknown parameters. Des. Codes Cryptogr. 91, 1713–1736 (2023). https://doi.org/10.1007/s10623-022-01175-4
